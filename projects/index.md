@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: All Milestones
+excerpt: "A List of Milestones related to DropTap project"
 comments: false
 ---

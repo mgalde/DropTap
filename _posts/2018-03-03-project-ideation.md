@@ -3,7 +3,7 @@ layout: post
 title: "CYBR 8480 Project Milestone 1: Project Ideation"
 date: 2018-03-03
 excerpt: "The idea behind a network tap with a mobile application."
-tags: [first post, test, image, feature]
+tags: [first post, test, image, features, droptap]
 feature: https://tap.apt-get-sudo.com/assets/img/Data-Tap.png
 comments: true
 ---
