@@ -5,7 +5,6 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <center><a href="https://tap.apt-get-sudo.com"><b>DropTap</b></a> is a minimal, network diagnostic tool using a Raspberry Pi and a mobile device.</center>
 
@@ -22,6 +21,3 @@ Now a network technician can simply deploy this network tap and engage directly 
 * Build a web interface utilizing network traffic as the data population
 * Build a mobile application that utilizes the Raspberry Pi tap and the web content hosted within
 * Auto generate notifications to alert user to network issues / alert criteria
-
-
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="michael-galde-39aa0a26"><a class="LI-simple-link" href='https://www.linkedin.com/in/michael-galde-39aa0a26?trk=profile-badge'>Michael Galde</a></div>
