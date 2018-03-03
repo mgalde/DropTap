@@ -1,16 +1,17 @@
 ---
-layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+layout: post
+title: "CYBR 8480 Project Milestone 1: Project Ideation"
+date: 2018-03-03
+excerpt: "The idea behind a network tap with a mobile application."
+tags: [first post, test, image, feature]
+feature: https://tap.apt-get-sudo.com/assets/img/Data-Tap.png
+comments: true
 ---
-
-<center><a href="https://tap.apt-get-sudo.com"><b>DropTap</b></a> is a minimal, network diagnostic tool using a Raspberry Pi and a mobile device.</center>
 
 # Project Repo Name
 DropTap
-This project is also visible from https://tap.apt-get-sudo.com
+This project is also visible from tap.apt-get-sudo.com
+
 ## Executive Summary
 Network diagnostics sometimes require technicians to enter confining spaces or otherwise enter areas which will require multiple trips to diagnose network traffic. If a technician needs to verify two machines are communicating, they may need to insert a network tap and then return to the host system to continue diagnostics. This is a waste of time and by deploying the "Drop Tap" in place the network tech can not accomplish the same task from the palm of his hand by using a mobile device.
 
