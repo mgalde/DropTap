@@ -1,6 +1,6 @@
 # Project Repo Name
 DropTap
-This project is also visible from tap.apt-get-sudo.com
+This project is also visible from https://tap.apt-get-sudo.com
 ## Executive Summary
 Network diagnostics sometimes require technicians to enter confining spaces or otherwise enter areas which will require multiple trips to diagnose network traffic. If a technician needs to verify two machines are communicating, they may need to insert a network tap and then return to the host system to continue diagnostics. This is a waste of time and by deploying the "Drop Tap" in place the network tech can not accomplish the same task from the palm of his hand by using a mobile device.
 
