@@ -1,24 +1,21 @@
 ---
 layout: post
-title: "CYBR 8480 Project Milestone 1: Project Ideation"
+title: "CYBR 8480 Project Milestone 1: Application requirements"
 date: 2018-03-03
-excerpt: "The idea behind a network tap with a mobile application."
-tags: [first post, test, image, features, droptap]
-feature: https://tap.apt-get-sudo.com/assets/img/Data-Tap.png
+excerpt: "Requirements are extremely important for conducting a successful project. these are the application requirements for the DropTap."
+tags: [requirements, features, droptap, project]
+feature: https://tap.apt-get-sudo.com/assets/img/Data-Tap-Requirements.png
 comments: true
 ---
 
 # Project Repo Name
 DropTap
+
 This project is also visible from tap.apt-get-sudo.com
 
-## Executive Summary
-Network diagnostics sometimes require technicians to enter confining spaces or otherwise enter areas which will require multiple trips to diagnose network traffic. If a technician needs to verify two machines are communicating, they may need to insert a network tap and then return to the host system to continue diagnostics. This is a waste of time and by deploying the "Drop Tap" the network tech can now accomplish the same task from the palm of his hand by using a mobile device.
-
-Now a network technician can simply deploy this network tap and engage directly limiting the amount of trips necessary to accomplish the task and saving time and money for the project at hand.
-
-## Project Goals
-* Build a network tap with a Raspberry Pi 3
-* Build a web interface utilizing network traffic as the data population
-* Build a mobile application that utilizes the Raspberry Pi tap and the web content hosted within
-* Auto generate notifications to alert user to network issues / alert criteria
+## User stories
+As a **Network Administrator**, I want to **not need to go back to my desk every time I deploy a technology** so I can **diagnose and certify technology at the same time**.
+**Acceptance Criteria:**
+* Network administrator will be able to conduct basic network diagnostics utilizing the users mobile device and the DropTap
+* Insert criteria 2 here
+* etc
