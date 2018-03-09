@@ -1,5 +1,4 @@
-# Project Repo Name
-DropTap
+# DropTap
 
 This project is also visible from https://tap.apt-get-sudo.com
 
@@ -30,4 +29,4 @@ As a **malicious actor**, I want to **compromise a legitimate DropTap** so I can
 **Mitigations:**
 * Mitigation technique 1 will be to set a authentication portal for the DropTap admin portal
 * Mitigation technique 2 will harden the Raspberry Pi through closing ports and stopping services not needed for the DropTap service
-* Mitigation technique 3 will securely connect the DropTap to a authenticated mobile user to limit the attack surface 
+* Mitigation technique 3 will securely connect the DropTap to a authenticated mobile user to limit the attack surface
