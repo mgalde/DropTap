@@ -22,7 +22,3 @@ Now a network technician can simply deploy this network tap and engage directly 
 * Parse data utilizing Node-red project located at https://github.com/node-red/node-red
 * Build a mobile application that utilizes the Raspberry Pi tap and the web content hosted within
 * Auto generate notifications to alert user to network issues / alert criteria
-
-[Application Requirements](/ApplicationRequirements.md)
-
-[Design Requirements](/DesignRequirements.md)
