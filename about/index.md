@@ -2,7 +2,8 @@
 layout: page
 title: About the Project
 tags: [droptap, about, project, class]
-date: 2016-03-21
+date: 2018-03-09
+feature: https://tap.apt-get-sudo.com/assets/img/Data-Tap-Design-Requirements.png
 comments: false
 ---
 
