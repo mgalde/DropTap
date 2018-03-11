@@ -12,10 +12,40 @@ comments: true
 The DropTap is a Raspberry Pi 3 with a USB network dongle which will bridge a connection between a device and its end point. The device can be inserted into a unsuspecting network or within a malicious network which will need mitigation.
 ![Overall DropTap Overview ](/assets/img/DropTapImages/DropTap1.jpeg)
 
-| Component name | Category of vulnerability | Issue Description | Mitigation |
-|----------------|---------------------------|-------------------|------------|
-| Network cable attached to DropTap and source | Malicious traffic evasion | This component exposes a additional hop between source and destination, A attacker could use this additional hop to attempt to hide malicious traffic | The DropTap will utilize a bridge network which should not be noticeable from the source or destination components .|
-| Network cable attached to DropTap and original input | Malicious traffic evasion | This component exposes a additional hop between source and destination, A attacker could use this additional hop to attempt to hide malicious traffic | The DropTap will utilize a bridge network which should not be noticeable from the source or destination components .|
+| Component name |
+|----------------|
+| Network cable attached to DropTap and source |
+
+| Category of vulnerability |
+|---------------------------|
+|Malicious traffic evasion |
+
+|Issue Description |
+|------------------|
+|This component exposes a additional hop between source and destination, A attacker could use this additional hop to attempt to hide malicious traffic |
+
+| Mitigation |
+|------------|
+|The DropTap will utilize a bridge network which should not be noticeable from the source or destination components .|
+
+
+| Component name |
+|----------------|
+|Network cable attached to DropTap and original input |
+
+| Category of vulnerability |
+|---------------------------|
+|Malicious traffic evasion |
+
+|Issue Description |
+|------------------|
+|This component exposes a additional hop between source and destination, A attacker could use this additional hop to attempt to hide malicious traffic |
+
+| Mitigation |
+|------------|
+|The DropTap will utilize a bridge network which should not be noticeable from the source or destination components |
+
+
 
 
 ## Security analysis DropTap UI
