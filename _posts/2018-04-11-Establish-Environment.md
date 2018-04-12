@@ -4,7 +4,7 @@ title: "CYBR 8480 Project Milestone 1: Establishing Environment"
 date: 2018-04-11
 excerpt: "Requirements are extremely important for conducting a successful project. these are the application requirements for the DropTap."
 tags: [Environment, security, droptap, project]
-feature: https://tap.apt-get-sudo.com/assets/img/environment.jpeg
+feature: https://tap.apt-get-sudo.com/assets/img/environment.jpg
 comments: true
 ---
 
