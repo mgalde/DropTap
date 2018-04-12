@@ -59,4 +59,20 @@ Lets copy over the project file, copy the text below and place it on the input f
 ```
 You environment should now look like this
 
-![Overall DropTap UI Concept ](/assets/img/DropTapImages/Product/DropTapUIDev1.png)
+![Overall DropTap UI  ](/assets/img/DropTapImages/Product/DropTapUIDev1.png)
+
+When you navigate to the Raspberry Pi from your mobile device you will find the following Interface
+
+![Overall DropTap UI mobile ](/assets/img/DropTapImages/Product/DropTapUI1.png)
+
+There are three unique settings available to the user which include Drop Tap, Traffic Capture and the settings page which looks like the following
+
+![Overall DropTap UI sections ](/assets/img/DropTapImages/Product/DropTapUI2.png)
+
+The settings available allow the user to change the IP address and reboot the device from the mobile device
+
+![Overall DropTap UI settings ](/assets/img/DropTapImages/Product/DropTapUI3.png)
+
+The traffic dump needs to be initiated from the Drop Tap menu and can be visible in this window which now looks like the following 30 sec traffic capture
+
+![Overall DropTap UI mobile ](/assets/img/DropTapImages/Product/DropTapUI4.png)
