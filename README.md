@@ -18,3 +18,5 @@ Now a network technician can simply deploy this network tap and engage directly 
 [Design Requirements](/DesignRequirements.md)
 
 [Security Analysis](/SecurityAnalysis.md)
+
+[Establishing the Environment](/EstablishEnvironment.md)
