@@ -59,4 +59,4 @@ Lets copy over the project file, copy the text below and place it on the input f
 ```
 You environment should now look like this
 
-![Overall DropTap UI Concept ](/assets/img/DropTapImages/Product/DropTap UI Dev 1.png)
+![Overall DropTap UI Concept ](/assets/img/DropTapImages/Product/DropTapUIDev1.png)
