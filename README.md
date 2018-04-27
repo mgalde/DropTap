@@ -26,3 +26,5 @@ Now a network technician can simply deploy this network tap and engage directly 
 [Installation of Drop Tap](/installation.md)
 
 [Getting Started with Drop Tap](/getting_started.md)
+
+[Packaging and Release](/Packaging_and_Release.md)
