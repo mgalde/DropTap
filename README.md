@@ -20,3 +20,9 @@ Now a network technician can simply deploy this network tap and engage directly 
 [Security Analysis](/SecurityAnalysis.md)
 
 [Establishing the Environment](/EstablishEnvironment.md)
+
+[Software Requirements](/hardware/software_requirements.md)
+
+[Installation of Drop Tap](/installation.md)
+
+[Getting Started with Drop Tap](/getting_started.md)
