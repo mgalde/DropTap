@@ -81,4 +81,27 @@ If everything is completed you should now navigate your web browser to localhost
 
 ![Over View ](/assets/img/DropTapImages/Product/DropTap5.png)
 
-If the graphics do not populate ensure that the DropTap is connected to a network which is active, repeat the bridge step process if needed. You may need to establish a cronjob to do this after a reboot. 
+If the graphics do not populate ensure that the DropTap is connected to a network which is active, repeat the bridge step process if needed. You may need to establish a cronjob to do this after a reboot.
+
+Now we need to establish your network monitor in the Node-Red code, select the two values below and adjust them as needed.
+
+![Adjustment ](/assets/img/DropTapImages/Product/DropTap6.png)
+
+This will ping a selected internal network device and a external network device to ensure you have communication, the DropTap will ping each connection once every second and will report the ping response time for basic network analysis.
+
+
+Next you will want to change the TCPDUMP settings in the TCPDUMP node as shown below
+
+![TCPDump Adjustment ](/assets/img/DropTapImages/Product/DropTap7.png)
+
+The TCPDUMP is currently assigned for the following command
+
+```bash
+sudo tcpdump -n -i eth1 ip and not net 1.1.1.1 and not net 8.8.8.8 and not net 192.168.3.1 and not net 192.168.3.25
+```
+
+You will want to adjust this command to meet the new requirements for the Network Monitor. This is done to avoid reporting on DropTap traffic as the scope of the project does not care if the DropTap is visible on the network.
+
+Once complete select the "Deploy" button and the Drop-Tap will rebuild with the changes Made.
+
+![DEPLOY ](/assets/img/DropTapImages/Product/DropTap8.png)
