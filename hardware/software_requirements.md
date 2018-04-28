@@ -15,7 +15,14 @@ Finally the DropTap needs to use a Ethernet cable to complete the connection and
 
 ## Software
 
-The DropTap system is running Raspbian Stretch with the Desktop Option. The kernel version is 4.14 and the current image can be found [HERE. ](https://downloads.raspberrypi.org/raspbian_latest) 
+The DropTap system is running Raspbian Stretch with the Desktop Option. The kernel version is 4.14 and the current image can be found [HERE. ](https://downloads.raspberrypi.org/raspbian_latest)
 The Node Red components are built into the Raspbian operating system which allows any device to run the DropTap feature.
 
 ## DropTap Bill of Materials (BOM)
+
+| Component name | Link to Component | Price |
+|----------------|---------------------------|-------------------|
+| Raspberry Pi Kit | [HERE ](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V) | $49.99 |
+| microSDHC Card | [HERE ](https://www.amazon.com/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073JWXGNT) | $12.99 |
+| Ethernet Adapter | [HERE ](https://www.amazon.com/AmazonBasics-1000-Gigabit-Ethernet-Adapter/dp/B00M77HMU0) | $13.99 |
+| Ethernet Cable | [HERE ](https://www.amazon.com/Mediabridge-Ethernet-Cable-Feet-31-399-15B/dp/B00BI06G1S) | $5.49 |
