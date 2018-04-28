@@ -8,7 +8,7 @@ First step is to write the [Raspbian image ](https://downloads.raspberrypi.org/r
 
 Once you boot into the Raspberry Pi you need to connect your [Ethernet Adapter ](https://www.amazon.com/AmazonBasics-1000-Gigabit-Ethernet-Adapter/dp/B00M77HMU0)which will be assigned eth1. This will be needed to establish the bridge.
 
-## We will establish this bridge using the following command
+### We will establish this bridge using the following command
 
  ```bash
 brctl addbr br0
