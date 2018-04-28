@@ -42,3 +42,4 @@ ifconfig eth1 0.0.0.0 up promisc
 
 ```bash
 echo 8 > /sys/class/net/br0/bridge/group_fwd_mask
+```
