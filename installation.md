@@ -14,31 +14,31 @@ Once you boot into the Raspberry Pi you need to connect your [Ethernet Adapter ]
 brctl addbr br0
  ```
 
-## Now we want to add eth0 to the bridge so we type to following command
+### Now we want to add eth0 to the bridge so we type to following command
 
 ```bash
 brctl addif br0 eth0
 ```
 
-## Now to add the USB network port to the bridge we conduct the following plug
+### Now to add the USB network port to the bridge we conduct the following plug
 
 ```bash
 brctl addif br0 eth1
 ```
 
-## Now we need to prep the network connections, lets start with the eth0 and place it in promiscuous mode
+### Now we need to prep the network connections, lets start with the eth0 and place it in promiscuous mode
 
 ```bash
 ifconfig eth0 0.0.0.0 up promisc
 ```
 
-## Ok and now lets do eth1 and place it in promiscuous node_modules
+### Ok and now lets do eth1 and place it in promiscuous node_modules
 
 ```bash
 ifconfig eth1 0.0.0.0 up promisc
 ```
 
-## Now lets put our Raspberry Pi as a man in the middle within the bridge
+### Now lets put our Raspberry Pi as a man in the middle within the bridge
 
 ```bash
 echo 8 > /sys/class/net/br0/bridge/group_fwd_mask
