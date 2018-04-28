@@ -21,7 +21,7 @@ Now a network technician can simply deploy this network tap and engage directly 
 
 [Establishing the Environment](/EstablishEnvironment.md)
 
-[Software Requirements](/hardware/software_requirements.md)
+[Software / Hardware Requirements](/hardware/software_requirements.md)
 
 [Installation of Drop Tap](/installation.md)
 
