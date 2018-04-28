@@ -5,5 +5,7 @@ The DropTap makes use of a Raspberry Pi 3 witch it self requires a 32 GB microSD
 
 The Raspberry Pi also needs a power adapter which is included in many Raspberry Pi kits so that the device can function. The kit used for the Raspberry Pi DropTap kit can be found [HERE ](https://www.amazon.com/CanaKit-Raspberry-Power-Supply-Listed/dp/B07BC6WH7V) which at this time is listed at $49.99.
 
+The DropTap makes use of a USB Gigabit Ethernet Adapter . This is needed to create a network bridge that the DropTap connects to so that network communication can continue without delaying current connections. The USB Ethernet adapter for the DropTap can be found [HERE ](https://www.amazon.com/AmazonBasics-1000-Gigabit-Ethernet-Adapter/dp/B00M77HMU0) which at this time is listed at $13.99.
+
 
 ## DropTap Bill of Materials (BOM)
