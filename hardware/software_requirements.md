@@ -13,5 +13,8 @@ The DropTap makes use of a USB Gigabit Ethernet Adapter . This is needed to crea
 
 Finally the DropTap needs to use a Ethernet cable to complete the connection and create the bridge . This is used to allow communication to continue to flow from the host system to the host network. The  Ethernet cable used for the DropTap can be found [HERE ](https://www.amazon.com/Mediabridge-Ethernet-Cable-Feet-31-399-15B/dp/B00BI06G1S) which at this time is listed at $5.49. It is important to note that size is not much of a issue as the DropTap should be attached at the local box.
 
+## Software
+
+The DropTap system is running Raspbian Stretch with the Desktop Option. The kernel version is 4.14 and the current image can be found [HERE ](https://downloads.raspberrypi.org/raspbian_latest) 
 
 ## DropTap Bill of Materials (BOM)
