@@ -15,6 +15,7 @@ Finally the DropTap needs to use a Ethernet cable to complete the connection and
 
 ## Software
 
-The DropTap system is running Raspbian Stretch with the Desktop Option. The kernel version is 4.14 and the current image can be found [HERE ](https://downloads.raspberrypi.org/raspbian_latest) 
+The DropTap system is running Raspbian Stretch with the Desktop Option. The kernel version is 4.14 and the current image can be found [HERE. ](https://downloads.raspberrypi.org/raspbian_latest) 
+The Node Red components are built into the Raspbian operating system which allows any device to run the DropTap feature.
 
 ## DropTap Bill of Materials (BOM)
