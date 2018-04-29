@@ -27,3 +27,13 @@ Once 30 seconds are up you will recieve a menu pop up stating capture is compete
 Successful traffic captures will be visible now and should look somewhat similar to below.
 
 ![Traffic Dump View  ](/assets/img/DropTapImages/Product/DropTapUI4.png)
+
+## Resetting device
+
+If at any time you need to restart the Raspberry Pi select the menu icon in the upper left and select "Setting" to open up the administration menu.
+
+![Traffic Dump View  ](/assets/img/DropTapImages/Product/DropTapUI2.png)
+
+You can now reset the device by hitting the "reboot" button on the left
+
+![Traffic Dump View  ](/assets/img/DropTapImages/Product/DropTapUI3.png)
