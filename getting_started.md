@@ -23,3 +23,7 @@ You can now poll 30 seconds worth of traffic captures to ensure that traffic is 
 Once 30 seconds are up you will recieve a menu pop up stating capture is compete, select the menu icon in the upper left and select "Traffic Dump View"
 
 ![Traffic Dump View  ](/assets/img/DropTapImages/Product/DropTapUI2.png)
+
+Successful traffic captures will be visible now and should look somewhat similar to below.
+
+![Traffic Dump View  ](/assets/img/DropTapImages/Product/DropTapUI4.png)
